@@ -40,7 +40,7 @@ def main():
         return
 
     basefield = SubGroup(p=23, g=(16, 13), n=31, h=1)
-    curve = Curve(a=20, b=8, field=basefield, name='SSWUTest Curve')
+    curve = Curve(a=20, b=8, field=basefield, name='Test Curve')
 
     option = sys.argv[1]
     if option == "params":
