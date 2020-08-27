@@ -3,6 +3,9 @@
 ## 사전 준비 사항
 
 - Python 3.8.5 for Windows / Ubuntu / MacOS
+  - Add Python to PATH
+- (Windows) Install ‘Build Tools for Visual Studio’
+  - https://visualstudio.microsoft.com/ko/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16 (auto download)
 - ECDSA cryptography library for education (tynyec)
 - Common utility functions for Ethereum development (eth-utils)
 - SHA-3 wrapper (keccak) for Python (pysha3)
